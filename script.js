@@ -1,6 +1,6 @@
 function toCase(text) {
   // write your code here
-	return text.lowertoCase+"-"+text.uppertoCase;
+	return text.lowertoCase()+"-"+text.uppertoCase();
 }
 
 // DO not change the code below
